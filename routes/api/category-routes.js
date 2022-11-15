@@ -13,6 +13,8 @@ const { Category, Product } = require('../../models');
 //  .catch((err) => console.log(err));
 //});
 
+//Both the route above and the one below find routes
+
 router.get('/', async (req, res) => {
   try {
     const categoryData = await Category.findAll();
