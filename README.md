@@ -11,8 +11,8 @@ This application is used to store info about a user and their thoughts, it simul
 After running npm i, npm run seed, npm run start, I have had the routes working in insomnia.
 
 ## Links
-Walkthrought vid
-
+[Walkthrough vid](https://drive.google.com/file/d/1ZJgq9aTFr5dz58Kk1wtlLDWUyu5wUJ29/view)
 
 git hub link
 
+https://github.com/ClaytonSnell/babygotbackendecommerce
